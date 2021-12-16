@@ -1,4 +1,4 @@
-
+//Bài này em tham khảo trên discussion của hackerrank ạ
 import java.util.Scanner;
 import java.util.ArrayList;
 
